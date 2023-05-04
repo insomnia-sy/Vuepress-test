@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as s}from"./framework-efe98465.js";const i={},c=e("h1",{id:"first-page-title",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#first-page-title","aria-hidden":"true"},"#"),s(" First Page Title")],-1),n=[c];function o(_,d){return a(),r("div",null,n)}const f=t(i,[["render",o],["__file","index.html.vue"]]);export{f as default};
