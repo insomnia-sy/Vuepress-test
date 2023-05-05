@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a04e0e7a","path":"/axios/json-server.html","title":"json-server","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"axios/json-server.md"}');export{e as data};
